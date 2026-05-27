@@ -1,3 +1,4 @@
+import housing_models
 #=============== Part 1: Expanding the Hierarchy ===================
 #----------------------- Step 1 ------------------------
 class Property:
