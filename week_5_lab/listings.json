@@ -1,0 +1,50 @@
+[
+    {
+        "prop_id": 201,
+        "address": "Ocean Park, Gia Lam",
+        "price": 3.1,
+        "sqm": 55,
+        "floor_level": 15,
+        "type": "Apartment"
+    },
+    {
+        "prop_id": 202,
+        "address": "Vinhomes Smart City",
+        "price": 2.8,
+        "sqm": 45,
+        "floor_level": 10,
+        "type": "Apartment"
+    },
+    {
+        "prop_id": 301,
+        "address": "Vinhomes Riverside",
+        "price": 35.0,
+        "sqm": 300,
+        "has_pool": true,
+        "type": "Villa"
+    },
+    {
+        "prop_id": 302,
+        "address": "Ciputra Tay Ho",
+        "price": 42.5,
+        "sqm": 450,
+        "has_pool": true,
+        "type": "Villa"
+    },
+    {
+        "prop_id": 401,
+        "address": "Keangnam Landmark 72",
+        "price": 15.5,
+        "sqm": 250,
+        "has_private_elevator": true,
+        "type": "Penthouse"
+    },
+    {
+        "prop_id": 402,
+        "address": "Lotte Center Hanoi",
+        "price": 18.2,
+        "sqm": 280,
+        "has_private_elevator": true,
+        "type": "Penthouse"
+    }
+]
